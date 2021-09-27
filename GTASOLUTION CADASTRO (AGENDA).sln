@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GTASOLUTION CADASTRO (AGENDA)", "GTASOLUTION CADASTRO (AGENDA)\GTASOLUTION CADASTRO (AGENDA).csproj", "{7D2DC8BB-FB48-4BF4-BACC-7F3DCF1DF554}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D2DC8BB-FB48-4BF4-BACC-7F3DCF1DF554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D2DC8BB-FB48-4BF4-BACC-7F3DCF1DF554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D2DC8BB-FB48-4BF4-BACC-7F3DCF1DF554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D2DC8BB-FB48-4BF4-BACC-7F3DCF1DF554}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11D2C07A-1A85-471E-9A52-06CC35DFFA19}
+	EndGlobalSection
+EndGlobal
