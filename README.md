@@ -17,8 +17,8 @@ banco de dados.
 Para vizualizar melhor o codigo acessar a pasta da aplicação .
 
 ## FERRAMENTA DE  DESENVOLVIMENTO
-MICROSOFT VISUAL STUDIO 
-MICROSOFT  SQL SERVER 
+MICROSOFT VISUAL STUDIO ,
+MICROSOFT  SQL SERVER ,
 LINGUAGEM C#
 
 ## TESTANDO  APLICAÇÃO
